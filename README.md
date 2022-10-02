@@ -9,8 +9,7 @@ This project is trying to use gan and wgan-gp to predict stock price, and compar
 
 ## 🖥️ Result 
 #### 📮Comparison
-![](https://i.imgur.com/OrZ3php.png)
-
+![image](https://user-images.githubusercontent.com/96862600/193443790-e6cf8b2d-8951-430c-8072-4109db59ad1e.png)
 #### 🌟Predict by WGAN-GP model
 ![](https://i.imgur.com/oDEff5s.png)
 
