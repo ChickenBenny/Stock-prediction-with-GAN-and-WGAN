@@ -3,8 +3,11 @@ This project is trying to use gan and wgan-gp to predict stock price, and compar
 
 ## 🔽 Reference
 **Journal**: Journal of Computer Science
+
 **Title**: Stock price prediction using Generative Adversarial Networks
+
 **Author**: Chen Chen, HungChun Lin
+
 **Link**: https://thescipub.com/abstract/jcssp.2021.188.196
 
 ## 🖥️ Result 
